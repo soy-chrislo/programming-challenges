@@ -11,8 +11,9 @@ This repository contains my solutions to various programming challenges that I f
 ## Challenges
 The following is a list of challenges that have been completed and added to this repository:
 
-1. LeetCode - Two Sum
-2. HackerRank - Simple Array Sum
+1. [LeetCode](https://leetcode.com/)
+2. [Moure Dev - Retos de Programación](https://retosdeprogramacion.com/)
+3. [HackerRank](https://www.hackerrank.com/dashboard)
 
 ## Contributing
 If you would like to contribute to this repository, please follow these guidelines:
